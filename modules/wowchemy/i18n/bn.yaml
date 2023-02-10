@@ -1,268 +1,282 @@
 # Navigation
 
-- id: toggle_navigation # Toggle navigation
-  translation: নেভিগেশন পরিবর্তন করুন # Alternatively: নেভিগেশন টগল করুন
+- id: toggle_navigation
+  translation: নেভিগেশন পরিবর্তন করুন
 
-- id: table_of_contents # Table of Contents
+- id: table_of_contents
   translation: সুচিপত্র
 
-- id: on_this_page # Contents
+- id: on_this_page
   translation: বিষয়বস্তু
 
-- id: back_to_top # Back to top
-  translation: উপরে ফিরে যান 
+- id: back_to_top
+  translation: উপরে ফিরে যান
 
-- id: home # Home
+- id: home
   translation: হোম পেজ
 
-- id: close # Close
+- id: close
   translation: বন্ধ করুন
 
-- id: languages # Languages
-  translation: ভাষা # Alternatively: ভাষা সমূহ
+- id: languages
+  translation: ভাষা
 
 # General
 
-- id: related # Related
+- id: related
   translation: সংশ্লিষ্ট
 
-- id: minute_read # min read
+- id: minute_read
   translation: মিনিটের পড়া
 
-- id: previous # Previous
+- id: previous
   translation: পূর্ববর্তী
 
-- id: next # Next
-  translation: পরবর্তী 
+- id: next
+  translation: পরবর্তী
 
-- id: figure # 'Figure %d:'
+- id: figure
   translation: 'চিত্র %d:'
 
-- id: edit_page # Edit this page
+- id: edit_page
   translation: পেজটি সম্পাদনা করুন
 
 # Themes
 
-- id: theme_selector # Display preferences
+- id: theme_selector
   translation: প্রদর্শন পছন্দসমূহ
 
-- id: theme_light # Light
+- id: theme_light
   translation: উজ্জ্বল
 
-- id: theme_dark # Dark
+- id: theme_dark
   translation: অন্ধকার
 
-- id: theme_auto # Automatic
+- id: theme_auto
   translation: অটোমেটিক
 
 # Buttons
 
-- id: btn_preprint # Preprint
+- id: btn_preprint
   translation: প্রিপ্রিন্ট
 
-- id: btn_pdf # PDF
-  translation: পিডিএফ # Alternatively: PDF
+- id: btn_pdf
+  translation: পিডিএফ
 
-- id: btn_cite # Cite
+- id: btn_cite
   translation: উদ্ধৃত করুন
 
-- id: btn_slides # Slides
+- id: btn_slides
   translation: স্লাইড সমূহ
 
-- id: btn_video # Video
+- id: btn_video
   translation: ভিডিও
 
-- id: btn_code # Code
+- id: btn_code
   translation: কোড
 
-- id: btn_dataset # Dataset
+- id: btn_dataset
   translation: ডেটাসেট
 
-- id: btn_project # Project
+- id: btn_project
   translation: প্রকল্প
 
-- id: btn_poster # Poster
+- id: btn_poster
   translation: পোস্টার
 
-- id: btn_source # Source Document
+- id: btn_source
   translation: উৎস নথি
 
-- id: btn_copy # Copy
-  translation: কপি করুন 
+- id: btn_copy
+  translation: কপি করুন
 
-- id: btn_copied # Copied
-  translation: কপি করা হয়েছে 
+- id: btn_copied
+  translation: কপি করা হয়েছে
 
-- id: btn_download # Download
+- id: btn_download
   translation: ডাউনলোড করুন
 
 # About widget
 
-- id: interests # Interests
+- id: interests
   translation: আগ্রহ
 
-- id: education # Education
+- id: education
   translation: শিক্ষা
 
-- id: user_profile_latest # Latest
+- id: user_profile_latest
   translation: সর্বশেষ
 
 # Accomplishments widget
 
-- id: see_certificate # See certificate
+- id: see_certificate
   translation: সার্টিফিকেট দেখুন
 
 # Experience widget
 
-- id: present # Present
+- id: present
   translation: বর্তমান
 
 # Pages widget
 
-- id: more_pages # See all
+- id: more_pages
   translation: সবগুলি দেখুন
 
-- id: more_posts # See all posts
+- id: more_posts
   translation: সব পোস্ট দেখুন
 
-- id: more_talks # See all events
+- id: more_talks
   translation: সব সংঘটনা দেখুন
 
-- id: more_publications # See all publications
+- id: more_publications
   translation: সব প্রকাশনা দেখুন
 
 # Contact widget
 
-- id: contact_name # Name
+- id: contact_name
   translation: নাম
 
-- id: contact_email # Email
+- id: contact_email
   translation: ইমেইল
 
-- id: contact_message # Message
+- id: contact_message
   translation: বার্তা
 
-- id: contact_attachment # Attach file
+- id: contact_attachment
   translation: ফাইল সংযুক্ত করুন
 
-- id: contact_send # Send
+- id: contact_send
   translation: পাঠান
 
-- id: book_appointment # Book an appointment
-  translation: সাক্ষাৎকার বুক করুন # Alternatively: সাক্ষাৎকার লিপিবদ্ধ করুন
+- id: book_appointment
+  translation: সাক্ষাৎকার বুক করুন
 
 # Publication/Event details
 
-- id: abstract # Abstract
+- id: abstract
   translation: সারাংশ
 
-- id: publication # Publication
+- id: publication
   translation: প্রকাশনা
 
-- id: publication_type # Type
-  translation: প্রকাশনার ধরন # Note: In English, it reads "Type" but is actually "Publication type".
+- id: publication_type
+  translation: প্রকাশনার ধরন
 
-- id: date # Date
+- id: date
   translation: তারিখ
 
-- id: last_updated # Last updated on
+- id: last_updated
   translation: 'সর্বশেষ আপডেট:'
 
-- id: event # Event
+- id: event
   translation: ঘটনা
 
-- id: location # Location
+- id: location
   translation: অবস্থান
 
-- id: pub_uncat # Uncategorized
+- id: pub_uncat
   translation: শ্রেণী বহির্ভূত
 
-- id: pub_conf # Conference paper
+- id: pub_conf
   translation: সম্মেলন নিবন্ধ
 
-- id: pub_journal # Journal article
+- id: pub_journal
   translation: জার্নাল নিবন্ধ
 
-- id: pub_preprint # Preprint
+- id: pub_preprint
   translation: প্রিপ্রিন্ট
 
-- id: pub_report # Report
+- id: pub_report
   translation: রিপোর্ট
 
-- id: pub_book # Book
-  translation: বই # Alternatively: পুস্তক
+- id: pub_book
+  translation: বই
 
-- id: pub_book_section # Book section
+- id: pub_book_section
   translation: পুস্তক বিভাগ
 
-- id: pub_thesis # Thesis
+- id: pub_thesis
   translation: থিসিস
 
-- id: pub_patent # Patent
+- id: pub_patent
   translation: পেটেন্ট
 
 # Project details
 
-- id: open_project_site # Go to Project Site
+- id: open_project_site
   translation: প্রকল্প সাইটে যান
 
 # Content types for default archive page titles and search results
 
-- id: posts # Posts
+- id: posts
   translation: পোস্ট সমূহ
 
-- id: publications # Publications
+- id: publications
   translation: প্রকাশনা সমূহ
 
-- id: talks # Events
+- id: talks
   translation: ঘটনাবলী
 
-- id: projects # Projects
+- id: projects
   translation: প্রকল্প সমূহ
 
-- id: slides # Slides
+- id: slides
   translation: স্লাইড সমূহ
 
-- id: authors # Authors
+- id: authors
   translation: লেখকগন
 
 # Search
 
-- id: search # Search
+- id: search
   translation: অনুসন্ধান
 
-- id: search_placeholder # Search...
+- id: search_placeholder
   translation: অনুসন্ধান করুন...
 
-- id: search_results # results found
+- id: search_results
   translation: ফলাফল পাওয়া গেছে
 
-- id: search_no_results # No results found
+- id: search_no_results
   translation: কোন ফলাফল পাওয়া যায়নি
 
-- id: search_common_queries # Common searches
+- id: search_common_queries
   translation: প্রচলিত অনুসন্ধান প্রশ্ন
 
 # Error 404
 
-- id: page_not_found # Page not found
+- id: page_not_found
   translation: পেজটি খুঁজে পাওয়া যায়নি
 
-- id: 404_recommendations # Perhaps you were looking for one of these?
+- id: 404_recommendations
   translation: সম্ভবত আপনি এর মধ্যে একটিকে খুঁজছিলেন?
 
 # Cookie consent
 
-- id: cookie_message # This website uses cookies to ensure you get the best experience on our website.
+- id: cookie_message
   translation: আপনি যাতে এই ওয়েবসাইটে সেরা অভিজ্ঞতা পান তা নিশ্চিত করতে এই ওয়েবসাইটটি কুকিজ ব্যবহার করে।
 
-- id: cookie_dismiss # Got it!
+- id: cookie_dismiss
   translation: বুঝেছি!
 
-- id: cookie_learn # Learn more
+- id: cookie_learn
   translation: আরও জানুন
 
 # Published with
 
 - id: published_with
   translation: '{wowchemy}-এর সাথে প্রকাশিত – বিনামূল্যে, {repo_link}ওপেন সোর্স{/repo_link} ওয়েবসাইট নির্মাতা যা সৃজনকারীদের ক্ষমতায়ন করে।'
+
+# Feedback widget
+
+- id: feedback_widget_title
+  translation: Feedback
+
+- id: feedback_widget_question
+  translation: Was this page helpful?
+
+- id: feedback_widget_answer_positive
+  translation: 😍 Yes
+
+- id: feedback_widget_answer_negative
+  translation: 😡 No

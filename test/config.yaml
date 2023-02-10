@@ -16,7 +16,7 @@ security:
 params:
   header:
     navbar:
-      enable: false
+      enable: true
   extensions:
     cms:
       local_backend: true
